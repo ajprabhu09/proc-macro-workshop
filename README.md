@@ -465,3 +465,8 @@ Unless you explicitly state otherwise, any contribution intentionally submitted
 for inclusion in this codebase by you, as defined in the Apache-2.0 license,
 shall be dual licensed as above, without any additional terms or conditions.
 </sub>
+
+### To add dependencie
+
+` cargo add syn quote proc_macro2 `
+
